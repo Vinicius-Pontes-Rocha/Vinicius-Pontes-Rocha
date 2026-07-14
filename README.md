@@ -1,16 +1,80 @@
-## Hi there 👋
+<h1 align="center"> Hey 
+<img src="assets/wave.gif" width="30" alt="wave">
+What's up?</h1>
 
-<!--
-**Vinicius-Pontes-Rocha/Vinicius-Pontes-Rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center"> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=%23FDB927&size=26&center=true&vCenter=true&width=650&lines=Hi+%2C+I'm+Vinicius" alt="Typing SVG" />
+
+</p>
+
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
+</p>
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vinicius-pontes-rocha-279a44370" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+
+  <a href="https://github.com/Vinicius-Pontes-Rocha" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
+ </div>
+
+<br/>
+
+<p align="center">
+  Vinicius Pontes Rocha 👨‍💻 <br/>
+  Estudante de Análise e Desenvolvimento de Sistemas - FATEC Praia Grande 📚 <br/>
+  Foco em Desenvolvimento Back-End | Java & Spring Boot 🚀 <br/>
+  Inglês Fluente - Certificação Cambridge 🇬🇧
+</p>
+
+<h3 align="center">🔥   My Stats </h3>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Pontes-Rocha&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=FDB927&icon_color=FDB927&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Pontes-Rocha&layout=compact&hide_border=true&title_color=FDB927&text_color=c9d1d9&bg_color=0d1117&langs_count=8&count_private=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/Vinicius-Pontes-Rocha" target="_blank">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vinicius's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Vinicius-Pontes-Rocha&theme=tokyonight&background=0d1117&stroke=FDB927&ring=FDB927&fire=FDB927&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" height="162px"/>
+  </a>
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Pontes-Rocha&custom_title=Contribution%20Graph&bg_color=0d1117&color=FDB927&line=FDB927&point=c9d1d9&area_color=0d1117&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+  ## My Skills
+
+#### Linguagens & Frameworks:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
+#### Databases:
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Ferramentas:
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+&nbsp;
+&nbsp;
+
+</div>
