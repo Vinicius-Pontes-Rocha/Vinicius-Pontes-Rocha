@@ -35,10 +35,7 @@ What's up?</h1>
 
 <h3 align="center">🔥   My Stats </h3>
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Pontes-Rocha&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=006437&icon_color=006437&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Pontes-Rocha&layout=compact&hide_border=true&title_color=006437&text_color=c9d1d9&bg_color=0d1117&langs_count=8&count_private=true" alt="Top Languages" />
-</div>
+
 
 <div align="center">
   <a href="https://github.com/Vinicius-Pontes-Rocha" target="_blank">
