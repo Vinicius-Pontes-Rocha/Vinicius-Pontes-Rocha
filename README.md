@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/84/f7/dd/84f7dd50363f8a89bf08f6f438754aa1.jpg" width="100%" alt="Banner">
+</p>
+
 <h1 align="center"> Hey 
 <img src="assets/wave.gif" width="30" alt="wave">
 What's up?</h1>
@@ -7,6 +11,10 @@ What's up?</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=%23006437&size=26&center=true&vCenter=true&width=650&lines=Hi+%2C+I'm+Vinicius" alt="Typing SVG" />
 
+</p>
+
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
 </p>
 
 
@@ -31,6 +39,10 @@ What's up?</h1>
 
 <h3 align="center">🔥   My Stats </h3>
 
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Pontes-Rocha&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=006437&icon_color=006437&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Pontes-Rocha&layout=compact&hide_border=true&title_color=006437&text_color=c9d1d9&bg_color=0d1117&langs_count=8&count_private=true" alt="Top Languages" />
+</div>
 
 <div align="center">
   <a href="https://github.com/Vinicius-Pontes-Rocha" target="_blank">
@@ -47,13 +59,17 @@ What's up?</h1>
 <div align="center">
 
 <a href="https://github.com/Vinicius-Pontes-Rocha/sistema-biblioteca-java" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Pontes-Rocha&repo=sistema-biblioteca-java&theme=tokyonight&bg_color=0d1117&title_color=006437&text_color=c9d1d9&border_color=006437" />
 </a>
 <a href="https://github.com/Vinicius-Pontes-Rocha/Sistema-Venda-De-Jogos" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Pontes-Rocha&repo=Sistema-Venda-De-Jogos&theme=tokyonight&bg_color=0d1117&title_color=006437&text_color=c9d1d9&border_color=006437" />
 </a>
 
 <a href="https://github.com/Vinicius-Pontes-Rocha/API-busca-cep" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Pontes-Rocha&repo=API-busca-cep&theme=tokyonight&bg_color=0d1117&title_color=006437&text_color=c9d1d9&border_color=006437" />
 </a>
 <a href="https://github.com/Vinicius-Pontes-Rocha/SiteFilmeProjeto" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-Pontes-Rocha&repo=SiteFilmeProjeto&theme=tokyonight&bg_color=0d1117&title_color=006437&text_color=c9d1d9&border_color=006437" />
 </a>
 
 </div>
