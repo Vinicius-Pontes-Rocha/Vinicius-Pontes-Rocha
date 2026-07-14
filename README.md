@@ -9,10 +9,6 @@ What's up?</h1>
 
 </p>
 
-<p align="center">
-  <img src="assets/gradient-line.png" width="100%" height="6px" />
-</p>
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vinicius-pontes-rocha-279a44370" target="_blank">
