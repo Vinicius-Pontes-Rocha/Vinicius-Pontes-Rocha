@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/84/f7/dd/84f7dd50363f8a89bf08f6f438754aa1.jpg" width="100%" alt="Banner">
+  <img src="https://i.pinimg.com/1200x/84/f7/dd/84f7dd50363f8a89bf08f6f438754aa1.jpg" width="55%" alt="Banner">
 </p>
 
 <h1 align="center"> Hey 
@@ -91,9 +91,6 @@ What's up?</h1>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 #### Ferramentas:
