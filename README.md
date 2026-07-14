@@ -1,6 +1,3 @@
-<h1 align="center"> Olá,
-<img src="assets/wave.gif" width="30" alt="wave">
-Tudo bom?</h1>
 
 
 <p align="center"> 
