@@ -9,7 +9,9 @@ What's up?</h1>
 
 </p>
 
-
+<p align="center">
+  <img src="assets/gradient-line.png" width="100%" height="6px" />
+</p>
 
 
 <div align="center">
@@ -33,7 +35,10 @@ What's up?</h1>
 
 <h3 align="center">🔥   My Stats </h3>
 
-
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Pontes-Rocha&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=006437&icon_color=006437&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Pontes-Rocha&layout=compact&hide_border=true&title_color=006437&text_color=c9d1d9&bg_color=0d1117&langs_count=8&count_private=true" alt="Top Languages" />
+</div>
 
 <div align="center">
   <a href="https://github.com/Vinicius-Pontes-Rocha" target="_blank">
@@ -41,7 +46,9 @@ What's up?</h1>
   </a>
 </div>
 
-
+<div align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Pontes-Rocha&custom_title=Contribution%20Graph&bg_color=0d1117&color=006437&line=006437&point=c9d1d9&area_color=0d1117&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 
 ## 🚀 Projetos em Destaque
 
