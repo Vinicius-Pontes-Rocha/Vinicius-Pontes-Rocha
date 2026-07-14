@@ -41,9 +41,7 @@ What's up?</h1>
   </a>
 </div>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Pontes-Rocha&custom_title=Contribution%20Graph&bg_color=0d1117&color=006437&line=006437&point=c9d1d9&area_color=0d1117&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
+
 
 ## 🚀 Projetos em Destaque
 
