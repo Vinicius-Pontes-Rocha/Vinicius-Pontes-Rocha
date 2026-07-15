@@ -1,9 +1,4 @@
 
-<h1 align="center"> Hey 
-<img src="assets/wave.gif" width="30" alt="wave">
-What's up?</h1>
-
-
 <p align="center"> 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&color=%23006437&size=26&center=true&vCenter=true&width=650&lines=Hi+%2C+I'm+Vinicius" alt="Typing SVG" />
