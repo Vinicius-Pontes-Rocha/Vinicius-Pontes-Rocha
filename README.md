@@ -47,7 +47,7 @@
 </a>
 <a href="https://github.com/Vinicius-Pontes-Rocha/API-busca-cep" target="_blank">
 </a>
-<a href="https://github.com/Vinicius-Pontes-Rocha/SiteFilmeProjeto" target="_blank">
+<a href="https://github.com/Vinicius-Pontes-Rocha/ Site-Filme--Com-JPA" target="_blank">
 </a>
 
 </div>
@@ -57,7 +57,7 @@
 | **[sistema-biblioteca-java](https://github.com/Vinicius-Pontes-Rocha/sistema-biblioteca-java)** | Sistema de gerenciamento de biblioteca desenvolvido em Java, utilizando Programação Orientada a Objetos (POO), ArrayList para armazenamento de dados e interação via terminal para cadastro. |
 | **[Sistema-Venda-De-Jogos](https://github.com/Vinicius-Pontes-Rocha/Sistema-Venda-De-Jogos)** | Sistema de loja de jogos desenvolvido em Java. Permite cadastrar jogos, DLCs e clientes, além de realizar vendas utilizando um carrinho de compras, aplicando Programação Orientada a Objetos. |
 | **[API-busca-cep](https://github.com/Vinicius-Pontes-Rocha/API-busca-cep)** | Uso da API ViaCEP com fins de teste. |
-| **[SiteFilmeProjeto](https://github.com/Vinicius-Pontes-Rocha/SiteFilmeProjeto)** | Projeto de estudos com uso de API e streams com Spring Boot. |
+| **[SiteFilmeProjeto](https://github.com/Vinicius-Pontes-Rocha/Site-Filme--Com-JPA)** | Projeto de estudos com uso de API e Postgres com Spring Boot. |
 
   ## My Skills
 
