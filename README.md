@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Pontes-Rocha&custom_title=Contribution%20Graph&bg_color=0d1117&color=00A859&line=00A859&point=c9d1d9&area_color=0d1117&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinicius-Pontes-Rocha&custom_title=Contribution%20Graph&bg_color=0d1117&color=00A859&line=00A859&point=c9d1d9&area_color=0d1117&area=true&hide_border=true" alt="Contribution Graph" width="600" />
 </div>
 
 ## 🚀 Projetos em Destaque
